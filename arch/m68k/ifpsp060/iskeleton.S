@@ -55,7 +55,7 @@
 |
 | _060_isp_done():
 |
-| This is and example main exit point for the Unimplemented Integer
+| This is an example main exit point for the Unimplemented Integer
 | Instruction exception handler. For a normal exit, the
 | _isp_unimp() branches to here so that the operating system
 | can do any clean-up desired. The stack frame is the
